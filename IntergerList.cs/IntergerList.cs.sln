@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntergerList.cs", "IntergerList.cs\IntergerList.cs.csproj", "{2F8E56ED-B05C-4D7C-A481-B3B248E1E6C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckZips.cs", "ConsoleApplication1\CheckZips.cs.csproj", "{EBAE6A4A-E058-405E-B9C6-A380B86CC6BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryCharges.cs", "ConsoleApplication2\DeliveryCharges.cs.csproj", "{EDA1DD06-02A1-4569-AD26-9E075AD71105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatAWhile.cs", "ConsoleApplication3\ChatAWhile.cs.csproj", "{9A0ED79E-DC4C-413B-B2E1-5CD961E1486B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F8E56ED-B05C-4D7C-A481-B3B248E1E6C6}.Debug|x86.ActiveCfg = Debug|x86
+		{2F8E56ED-B05C-4D7C-A481-B3B248E1E6C6}.Debug|x86.Build.0 = Debug|x86
+		{2F8E56ED-B05C-4D7C-A481-B3B248E1E6C6}.Release|x86.ActiveCfg = Release|x86
+		{2F8E56ED-B05C-4D7C-A481-B3B248E1E6C6}.Release|x86.Build.0 = Release|x86
+		{EBAE6A4A-E058-405E-B9C6-A380B86CC6BD}.Debug|x86.ActiveCfg = Debug|x86
+		{EBAE6A4A-E058-405E-B9C6-A380B86CC6BD}.Debug|x86.Build.0 = Debug|x86
+		{EBAE6A4A-E058-405E-B9C6-A380B86CC6BD}.Release|x86.ActiveCfg = Release|x86
+		{EBAE6A4A-E058-405E-B9C6-A380B86CC6BD}.Release|x86.Build.0 = Release|x86
+		{EDA1DD06-02A1-4569-AD26-9E075AD71105}.Debug|x86.ActiveCfg = Debug|x86
+		{EDA1DD06-02A1-4569-AD26-9E075AD71105}.Debug|x86.Build.0 = Debug|x86
+		{EDA1DD06-02A1-4569-AD26-9E075AD71105}.Release|x86.ActiveCfg = Release|x86
+		{EDA1DD06-02A1-4569-AD26-9E075AD71105}.Release|x86.Build.0 = Release|x86
+		{9A0ED79E-DC4C-413B-B2E1-5CD961E1486B}.Debug|x86.ActiveCfg = Debug|x86
+		{9A0ED79E-DC4C-413B-B2E1-5CD961E1486B}.Debug|x86.Build.0 = Debug|x86
+		{9A0ED79E-DC4C-413B-B2E1-5CD961E1486B}.Release|x86.ActiveCfg = Release|x86
+		{9A0ED79E-DC4C-413B-B2E1-5CD961E1486B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
